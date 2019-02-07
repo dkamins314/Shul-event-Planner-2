@@ -13,6 +13,7 @@ using Microsoft.EntityFrameworkCore;
 using Shul_Event_Planner_2.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Shul_Event_Planner_2.Models;
 
 namespace Shul_Event_Planner_2
 {
@@ -38,7 +39,7 @@ namespace Shul_Event_Planner_2
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
-            services.AddDefaultIdentity<IdentityUser>()
+            services.AddDefaultIdentity<ApplicationUser>()
                 .AddDefaultUI(UIFramework.Bootstrap4)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 

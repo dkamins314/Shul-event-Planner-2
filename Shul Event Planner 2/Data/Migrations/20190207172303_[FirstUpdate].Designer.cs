@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Shul_Event_Planner_2.Data;
 
 namespace Shul_Event_Planner_2.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20190207172303_[FirstUpdate]")]
+    partial class FirstUpdate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -200,6 +202,8 @@ namespace Shul_Event_Planner_2.Data.Migrations
                     b.Property<string>("Country");
 
                     b.Property<string>("NameofOrganization");
+
+                    b.Property<string>("Phone");
 
                     b.Property<string>("State");
 
