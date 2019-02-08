@@ -14,5 +14,6 @@ namespace Shul_Event_Planner_2.Data
         {
         }
          public DbSet<ApplicationUser> AppUsers { get; set; }
+         public DbSet<Shul_Event_Planner_2.Models.CalendarSetUp> CalendarSetUp { get; set; }
     }
 }
