@@ -47,11 +47,11 @@ namespace Shul_Event_Planner_2.Controllers
         // GET: CalendarSetUps/Create
         public IActionResult Create()
         { 
-        CalendarSetUp calendarSetUp =
-            new CalendarSetUp();
+        CalendarSetUpViewModel calendarSetUpViewModel =
+            new CalendarSetUpViewModel();
 
         
-            return View(calendarSetUp);
+            return View(calendarSetUpViewModel);
         }
 
         // POST: CalendarSetUps/Create
