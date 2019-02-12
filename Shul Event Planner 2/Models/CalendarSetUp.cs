@@ -10,6 +10,7 @@ namespace Shul_Event_Planner_2.Models
     {
         [Key]
         public int  Id { get; set; }
+        public string NameofSchedule { get; set; }
         public string Address { get; set; }
         public string City { get; set; }
         public string ZipCode { get; set; }
