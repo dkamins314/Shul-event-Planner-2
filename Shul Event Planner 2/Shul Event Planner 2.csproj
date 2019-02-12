@@ -14,7 +14,6 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.2" />
     <PackageReference Include="NDesk.Options" Version="0.2.1" />
-    <PackageReference Include="RealmJson.Extensions" Version="2.1.0" />
     <PackageReference Include="Zmanim.Olson" Version="1.2.2" />
   </ItemGroup>
  
