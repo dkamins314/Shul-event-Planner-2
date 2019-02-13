@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_15d4749d52cea4c5fb0f42a724330ff7" kind="dir">
+    <compoundname>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations</compoundname>
+    <innerfile refid="00000000000000___create_identity_schema_8cs">00000000000000_CreateIdentitySchema.cs</innerfile>
+    <innerfile refid="00000000000000___create_identity_schema_8_designer_8cs">00000000000000_CreateIdentitySchema.Designer.cs</innerfile>
+    <innerfile refid="20190207172303__[_first_update]_8cs">20190207172303_[FirstUpdate].cs</innerfile>
+    <innerfile refid="20190207172303__[_first_update]_8_designer_8cs">20190207172303_[FirstUpdate].Designer.cs</innerfile>
+    <innerfile refid="20190207201611__[_second_update]_8cs">20190207201611_[SecondUpdate].cs</innerfile>
+    <innerfile refid="20190207201611__[_second_update]_8_designer_8cs">20190207201611_[SecondUpdate].Designer.cs</innerfile>
+    <innerfile refid="20190207203130__[_third_update]_8cs">20190207203130_[ThirdUpdate].cs</innerfile>
+    <innerfile refid="20190207203130__[_third_update]_8_designer_8cs">20190207203130_[ThirdUpdate].Designer.cs</innerfile>
+    <innerfile refid="20190207210849___custom_data_user_8cs">20190207210849_CustomDataUser.cs</innerfile>
+    <innerfile refid="20190207210849___custom_data_user_8_designer_8cs">20190207210849_CustomDataUser.Designer.cs</innerfile>
+    <innerfile refid="20190212191724___migrate4_8cs">20190212191724_Migrate4.cs</innerfile>
+    <innerfile refid="20190212191724___migrate4_8_designer_8cs">20190212191724_Migrate4.Designer.cs</innerfile>
+    <innerfile refid="20190212195536___migrate5_8cs">20190212195536_Migrate5.cs</innerfile>
+    <innerfile refid="20190212195536___migrate5_8_designer_8cs">20190212195536_Migrate5.Designer.cs</innerfile>
+    <innerfile refid="_application_db_context_model_snapshot_8cs">ApplicationDbContextModelSnapshot.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/"/>
+  </compounddef>
+</doxygen>

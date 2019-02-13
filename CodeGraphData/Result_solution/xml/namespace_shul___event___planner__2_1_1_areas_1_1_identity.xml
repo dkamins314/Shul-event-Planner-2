@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_shul___event___planner__2_1_1_areas_1_1_identity" kind="namespace">
+    <compoundname>Shul_Event_Planner_2::Areas::Identity</compoundname>
+    <innerclass refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_identity_hosting_startup" prot="public">Shul_Event_Planner_2::Areas::Identity::IdentityHostingStartup</innerclass>
+    <innernamespace refid="namespace_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages">Shul_Event_Planner_2::Areas::Identity::Pages</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="[generated]" line="1" column="1"/>
+  </compounddef>
+</doxygen>

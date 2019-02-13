@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="_calendar_set_up_view_model_8cs" kind="file">
+    <compoundname>CalendarSetUpViewModel.cs</compoundname>
+    <innerclass refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model" prot="public">Shul_Event_Planner_2::ViewModels::CalendarSetUpViewModel</innerclass>
+    <innernamespace refid="namespace_shul___event___planner__2_1_1_view_models">Shul_Event_Planner_2::ViewModels</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Collections.Generic;</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.ComponentModel.DataAnnotations;</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Linq;</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>System.Threading.Tasks;</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>Microsoft.AspNetCore.Mvc.Rendering;</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/>Shul_Event_Planner_2.Models;</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"></highlight></codeline>
+<codeline lineno="9" refid="namespace_shul___event___planner__2_1_1_view_models" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">Shul_Event_Planner_2.ViewModels</highlight></codeline>
+<codeline lineno="10"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="11" refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model" refkind="compound"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model" kindref="compound">CalendarSetUpViewModel</ref></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[Key]</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[Required(ErrorMessage<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;Name<sp/>is<sp/>required&quot;</highlight><highlight class="normal">),<sp/>Display(Name<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;Name<sp/>of<sp/>Schedule&quot;</highlight><highlight class="normal">)]</highlight></codeline>
+<codeline lineno="15" refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a6dff3a473475486a10eaabcf745d7055" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">string</highlight><highlight class="normal"><sp/>NameofSchedule<sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[Required(ErrorMessage<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;Address<sp/>is<sp/>required&quot;</highlight><highlight class="normal">)]</highlight></codeline>
+<codeline lineno="18" refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a074799320638564d971dfcc10599a47e" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">string</highlight><highlight class="normal"><sp/>Address<sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[Required(ErrorMessage<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;City<sp/>is<sp/>required&quot;</highlight><highlight class="normal">)]</highlight></codeline>
+<codeline lineno="21" refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a89960ace0b0d83484ded0ea557bf869d" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">string</highlight><highlight class="normal"><sp/>City<sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[Required(ErrorMessage<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;Zip<sp/>Code<sp/>or<sp/>Postal<sp/>Code<sp/>is<sp/>required&quot;</highlight><highlight class="normal">),<sp/>Display(Name<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;Zip<sp/>Code<sp/>or<sp/>Postal<sp/>Code&quot;</highlight><highlight class="normal">)]</highlight></codeline>
+<codeline lineno="24" refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a8f1707fd46fbbbfe5e7e00a7738a52f3" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">string</highlight><highlight class="normal"><sp/>ZipCode<sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[Required(ErrorMessage<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;Country<sp/>is<sp/>required&quot;</highlight><highlight class="normal">)]</highlight></codeline>
+<codeline lineno="27" refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1aa981c19c17f3b27cf618cfe04ae7be4a" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">string</highlight><highlight class="normal"><sp/>Country<sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[Display(Name<sp/>=<sp/></highlight><highlight class="stringliteral">&quot;Location<sp/>Coordinates&quot;</highlight><highlight class="normal">)]</highlight></codeline>
+<codeline lineno="30" refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1af9fc823d53fcc0ec8ebca2bd8530d605" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>GeolocationCoordinates<sp/>{<sp/></highlight><highlight class="keyword">get</highlight><highlight class="normal">;<sp/>set;<sp/>}</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>public<sp/>CalendarSetUpViewModel()<sp/>{<sp/>}</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39"><highlight class="normal"></highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs"/>
+  </compounddef>
+</doxygen>

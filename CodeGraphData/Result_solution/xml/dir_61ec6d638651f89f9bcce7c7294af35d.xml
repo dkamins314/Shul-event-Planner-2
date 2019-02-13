@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_61ec6d638651f89f9bcce7c7294af35d" kind="dir">
+    <compoundname>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2</compoundname>
+    <innerdir refid="dir_8e3617a578a136515c2058932903a8b0">C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas</innerdir>
+    <innerdir refid="dir_72d003ebd6d70be5b4dc792faca632c7">C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers</innerdir>
+    <innerdir refid="dir_90a650f69b0eea39b703630cda1fb6a4">C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data</innerdir>
+    <innerdir refid="dir_bbb40d49ab31763277a0c60922aa4d91">C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Models</innerdir>
+    <innerdir refid="dir_a787f9d36f0853e735af3cd4175a6f30">C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels</innerdir>
+    <innerfile refid="_program_8cs">Program.cs</innerfile>
+    <innerfile refid="_startup_8cs">Startup.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/"/>
+  </compounddef>
+</doxygen>

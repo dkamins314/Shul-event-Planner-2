@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_064181250823dbd58364a6b762e8625b" kind="dir">
+    <compoundname>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage</compoundname>
+    <innerfile refid="_index_8cshtml_8cs">Index.cshtml.cs</innerfile>
+    <innerfile refid="_manage_nav_pages_8cs">ManageNavPages.cs</innerfile>
+    <innerfile refid="_personal_data_8cshtml_8cs">PersonalData.cshtml.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/"/>
+  </compounddef>
+</doxygen>

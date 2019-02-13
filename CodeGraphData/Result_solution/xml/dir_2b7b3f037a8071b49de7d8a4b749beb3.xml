@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_2b7b3f037a8071b49de7d8a4b749beb3" kind="dir">
+    <compoundname>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity</compoundname>
+    <innerdir refid="dir_4cacbf7f423d1b159d7e881e1f9e8b55">C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages</innerdir>
+    <innerfile refid="_identity_hosting_startup_8cs">IdentityHostingStartup.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/"/>
+  </compounddef>
+</doxygen>

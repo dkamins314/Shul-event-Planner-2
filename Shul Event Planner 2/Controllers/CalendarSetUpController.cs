@@ -59,15 +59,15 @@ namespace Shul_Event_Planner_2.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Address,City,ZipCode,Country,GeolocationCoordinates")] CalendarSetUp calendarSetUp)
+        public async Task<IActionResult> Create([Bind("Id,Address,City,ZipCode,Country,GeolocationCoordinates")] CalendarSetUpViewModel calendarSetUpViewModel)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(calendarSetUp);
+                _context.Add(calendarSetUpViewModel);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(calendarSetUp);
+            return View(calendarSetUpViewModel);
         }
 
         // GET: CalendarSetUps/Edit/5

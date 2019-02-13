@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context" kind="class"><name>Shul_Event_Planner_2::Data::ApplicationDbContext</name>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context_1acf188241114777de340c37e0be6b08d4" kind="property"><name>AppUsers</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context_1ad5f307fbe2541f6ed35c0a582831e4c8" kind="property"><name>CalendarSetUp</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context_1a2eb356b63a32ea93b31e27361727d1af" kind="function"><name>ApplicationDbContext</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_application_db_context_model_snapshot" kind="class"><name>Shul_Event_Planner_2::Data::Migrations::ApplicationDbContextModelSnapshot</name>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_application_db_context_model_snapshot_1add73faf0b1401db93b5cb1ca8edbcc55" kind="function"><name>BuildModel</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kind="class"><name>Shul_Event_Planner_2::Models::ApplicationUser</name>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_application_user_1a7b79b1e92109fa04df09d3d6d8465133" kind="property"><name>ContactName</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_application_user_1aaee77f2f67411fa70f7011d0ee7730ea" kind="property"><name>NameofOrganization</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_application_user_1a52a7035d294e7cd83e9f237bab91b856" kind="property"><name>StreetAddressOfOrganization</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_application_user_1afc76679c67253b4150b10810d238be27" kind="property"><name>ZipCode</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_application_user_1adfe43f5b32d044783e46bdee85b6e20c" kind="property"><name>City</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_application_user_1a5232fdb9696430cfbaf050f4a786400a" kind="property"><name>State</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_application_user_1aa0ed4511aff8f3b53672ad7fc2b21f9f" kind="property"><name>Country</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up" kind="class"><name>Shul_Event_Planner_2::Models::CalendarSetUp</name>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up_1a34528d7e89f58d20cfa7d835de3a9934" kind="property"><name>Id</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up_1a6f062b56ad8ab1c7e4db6f57eb0b553b" kind="property"><name>NameofSchedule</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up_1ab958d23be6007bf2316965251f0a831f" kind="property"><name>Address</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up_1a5d8babe434ff42a50cf7e731809308a9" kind="property"><name>City</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up_1a04a4fc2da00ad9d6a757cae414684e70" kind="property"><name>ZipCode</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up_1aea491a5f2ed71b7a11f1c2661e453634" kind="property"><name>Country</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up_1afff7f6a23a644b08955adb7823cfa672" kind="property"><name>GeolocationCoordinates</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller" kind="class"><name>Shul_Event_Planner_2::Controllers::CalendarSetUpController</name>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a946a201ca55cfc7058caa72229382c50" kind="variable"><name>_context</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a3f9571d90d1ba6c057590daa52e22a25" kind="function"><name>CalendarSetUpController</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a9a17aa212ff2ea290caba0955fd5e166" kind="function"><name>Index</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1aa5283ddd2498a5943199a43f9e6d1d4b" kind="function"><name>Details</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a6a4d2b2b9bf823467745b032c95ac83f" kind="function"><name>Create</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1aca1d87b5f3227fc20f98fa10a067918e" kind="function"><name>Create</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1aba7514f2340f2ac0461095b92ff4702a" kind="function"><name>Edit</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a2e423f7479b02a3c9d9d615a11e6369c" kind="function"><name>Edit</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a952b395d1fe274f907adfb40b73cf945" kind="function"><name>Delete</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a44384ebb66aa8ed3b25c4e4d5a079041" kind="function"><name>DeleteConfirmed</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1ac260ed288b526f192785c7ef745ff5c0" kind="function"><name>CalendarSetUpExists</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model" kind="class"><name>Shul_Event_Planner_2::ViewModels::CalendarSetUpViewModel</name>
+    <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a6dff3a473475486a10eaabcf745d7055" kind="property"><name>NameofSchedule</name></member>
+    <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a074799320638564d971dfcc10599a47e" kind="property"><name>Address</name></member>
+    <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a89960ace0b0d83484ded0ea557bf869d" kind="property"><name>City</name></member>
+    <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a8f1707fd46fbbbfe5e7e00a7738a52f3" kind="property"><name>ZipCode</name></member>
+    <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1aa981c19c17f3b27cf618cfe04ae7be4a" kind="property"><name>Country</name></member>
+    <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1af9fc823d53fcc0ec8ebca2bd8530d605" kind="property"><name>GeolocationCoordinates</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema" kind="class"><name>Shul_Event_Planner_2::Data::Migrations::CreateIdentitySchema</name>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema_1ad832757718e6971c0f1e2f316caa2ea1" kind="function"><name>Up</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema_1a355824a0696bcd493f292f6c48ffe1fd" kind="function"><name>Down</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema_1ac3224fa533a9a5a6e8b3df5b31d4fc71" kind="function"><name>BuildTargetModel</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_custom_data_user" kind="class"><name>Shul_Event_Planner_2::Data::Migrations::CustomDataUser</name>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_custom_data_user_1a8e28e0ccb4e46868754a64f519fdccfb" kind="function"><name>Up</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_custom_data_user_1aaa9534791fa85e950d0c2f193df1874d" kind="function"><name>Down</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_custom_data_user_1a1200c43db5b2a46597a71a8dfec9e5d0" kind="function"><name>BuildTargetModel</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_models_1_1_error_view_model" kind="class"><name>Shul_Event_Planner_2::Models::ErrorViewModel</name>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_error_view_model_1a2cc7e1fa598791f193d72289726323e2" kind="property"><name>RequestId</name></member>
+    <member refid="class_shul___event___planner__2_1_1_models_1_1_error_view_model_1a4350ed37f8b70b07b66357a7073806c6" kind="variable"><name>ShowRequestId</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update" kind="class"><name>Shul_Event_Planner_2::Data::Migrations::FirstUpdate</name>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update_1a89a24160d5bcd9b3ed063d71f293b09d" kind="function"><name>Up</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update_1a2e249db1bb3b1b4253bdbabbcc6bb779" kind="function"><name>Down</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update_1a870980d9dda1ce710c85fd2ba10fdf6b" kind="function"><name>BuildTargetModel</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_controllers_1_1_home_controller" kind="class"><name>Shul_Event_Planner_2::Controllers::HomeController</name>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_home_controller_1aa5ed635ee231946b30d8633a20e2749a" kind="function"><name>Index</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_home_controller_1a06865392d42288ac31b59f1d24ccf510" kind="function"><name>Privacy</name></member>
+    <member refid="class_shul___event___planner__2_1_1_controllers_1_1_home_controller_1afa34b666526dc19e5496cdfdeefed0a8" kind="function"><name>Error</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_identity_hosting_startup" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::IdentityHostingStartup</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_identity_hosting_startup_1a7bb37a0ea5993a57e9f0e815b69cd492" kind="function"><name>Configure</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1ab5fb264063338e80138d690e531ac826" kind="variable"><name>_userManager</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a2996edf0e0a0ff943825c9bc08a3d005" kind="variable"><name>_signInManager</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1aaa226e38207cc574e8c8c071a8b887a9" kind="variable"><name>_emailSender</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a9fe6171c6be4fb98b051766105669e88" kind="property"><name>Username</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a68b389c34988a6a12056df7b39117470" kind="property"><name>IsEmailConfirmed</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a9165696c7518c0859de2fc0452669e92" kind="property"><name>StatusMessage</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1af21b2eb6e2fdb52167655515e0e92d93" kind="property"><name>Input</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a91f7cab66207f23bc5b68d8f95d081f5" kind="function"><name>IndexModel</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a8a0f5ffaf53ac1772e5f1ad46b22f987" kind="function"><name>OnGetAsync</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a6ef0e699532af4aa62a0bf7953938bec" kind="function"><name>OnPostAsync</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1ab8ed8509e6b8a4b9844c52ff22ff6b3b" kind="function"><name>OnPostSendVerificationEmailAsync</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1_1_input_model" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel::InputModel</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1_1_input_model_1a0d4ddec2195bdb640eb65a3c5a82d148" kind="property"><name>TwoFactorCode</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1_1_input_model_1a6e81a433cb205be2dc71fcb500a8393a" kind="property"><name>RememberMachine</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1a03b8df7c00c32439387a39ff7f32b70a" kind="property"><name>Email</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ad6dc93a006adf8666182631396874cdc" kind="property"><name>ContactName</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ade40d5ca8967f4771276f507b8ab480a" kind="property"><name>NameofOrganization</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ae1d5a206019b28d4e924699b0a38d73a" kind="property"><name>StreetAddressOfOrganization</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1afac3202c9b8809c0acf2e579528e054d" kind="property"><name>ZipCode</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1a7d8f681eee27507bb8a1aebb44e27721" kind="property"><name>City</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1a1bd87ae4fcd914df14212e9eab625d3c" kind="property"><name>State</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ac11dd3b6161cbfe28fd97f03537f87f4" kind="property"><name>Country</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ae244b8f7d92e327f4efeed45919738fe" kind="property"><name>PhoneNumber</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel::InputModel</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1a3e9a9f4ee6d29d13b5165555630ee737" kind="property"><name>Email</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1a83b50a195721f84322467d8a57e36436" kind="property"><name>Password</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1a8082dcad9957a9b8458c5bc67a2bc5e1" kind="property"><name>ConfirmPassword</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1a48c9449122ffe6c13081d6fa77dbaa85" kind="property"><name>ContactName</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1a2e6a71ef33128183ae73f53c83a88bba" kind="property"><name>NameofOrganization</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1acf35d7af67c1d896f86332f1194ebd68" kind="property"><name>StreetAddressOfOrganization</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1afd9516280d3c565227b8ade1287a55d4" kind="property"><name>ZipCode</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1a3d90f73053aedb4022da4343c6b51808" kind="property"><name>City</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1aaba4273f9b7dceb66bddb25b898d6f03" kind="property"><name>State</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1a132980300b5da5508ca899e9e44614f2" kind="property"><name>Country</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model_1ac1fd07098573674a3f3c283f505713e7" kind="property"><name>PhoneNumber</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1_1_input_model" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginModel::InputModel</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1_1_input_model_1a1266b7500edab363390a2066722a185d" kind="property"><name>Email</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1_1_input_model_1a2433c11cb9f80d152d4dfc0a0bc1f390" kind="property"><name>Password</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1_1_input_model_1a07caa9d963c5b05e10612adecaab71a1" kind="property"><name>RememberMe</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginModel</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1af4e06b2778cae1e3d4ade8746f9b0370" kind="variable"><name>_signInManager</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1ab2b706bd2e5fd9c995377b944f36e159" kind="variable"><name>_logger</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1a97d2ae90c0d4dae93a73b3d69c82a86a" kind="property"><name>Input</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1a6748eb5a87137fa29162530a0594557a" kind="property"><name>ExternalLogins</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1aaba30edc84a9326af24a2c1c19cf28b2" kind="property"><name>ReturnUrl</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1a27b94f7987fff9b3aec7765d6ab59e1e" kind="property"><name>ErrorMessage</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1a00b24ea5b170331949b9b6e75b275edf" kind="function"><name>LoginModel</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1ad856d2d7f4e678a28f7d0f3328bc8361" kind="function"><name>OnGetAsync</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model_1afa76168fd8de4b969d50dbbf7232a1ba" kind="function"><name>OnPostAsync</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1af1045fcbe6fa79828d38d6dab7745c27" kind="variable"><name>_signInManager</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a1aaa97ee6bf408ee98aaaef4467b10b2" kind="variable"><name>_logger</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a1b1cfdbf145db09da55c3aaddb9e2e9b" kind="property"><name>Input</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a150fdda050b11b9b0b499733c642465e" kind="property"><name>RememberMe</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a9958be674e323ffe5a06e8161c456ebb" kind="property"><name>ReturnUrl</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1ab0f80958af6262e6cb83e53fe42dc7af" kind="function"><name>LoginWith2faModel</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a6397afdb4e40662e8a311f8b1aa01700" kind="function"><name>OnGetAsync</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a1f2490f851af2a21727f321e85ccd0a0" kind="function"><name>OnPostAsync</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a06c54b2de684d35342d00ce009175f17" kind="variable"><name>Index</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1ae6744b7ac6263599402916dcc8ecbebd" kind="variable"><name>ChangePassword</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a1bf1d02d86bfc1bb74b57d89860e8b18" kind="variable"><name>ExternalLogins</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1af5aeb982ad72191d11986ab6397f3a87" kind="variable"><name>PersonalData</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1aec1891395b408b44757da2d4a75bc47e" kind="variable"><name>TwoFactorAuthentication</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a80d7df4e0c2e1d48e87f0f11d856e889" kind="function"><name>IndexNavClass</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a88177d34806ba80698ac4609f7a707f7" kind="function"><name>ChangePasswordNavClass</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a2899f76912a2d3ba9b259cfeb1641d96" kind="function"><name>ExternalLoginsNavClass</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a15b8dccefc6444cf75e505d761d23649" kind="function"><name>PersonalDataNavClass</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a3e4368e574d9286002171f8ccbbd27fe" kind="function"><name>TwoFactorAuthenticationNavClass</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a2373eecfaefccff9bea5ad4fdbfe224f" kind="function"><name>PageNavClass</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4" kind="class"><name>Shul_Event_Planner_2::Data::Migrations::Migrate4</name>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4_1a3051da2445713ecbabfc16771661cd9d" kind="function"><name>Up</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4_1a9350168a350bf8b626cf81b0e1b874bd" kind="function"><name>Down</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4_1a66be545ea41856d9c5511b8f50e5e2fc" kind="function"><name>BuildTargetModel</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate5" kind="class"><name>Shul_Event_Planner_2::Data::Migrations::Migrate5</name>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate5_1aadb89de61aa132e6305211944b796454" kind="function"><name>Up</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate5_1af6ea8dc33ca74e1882fce01886743516" kind="function"><name>Down</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate5_1a8ba603f10644100b672954a209fcb11a" kind="function"><name>BuildTargetModel</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::PersonalDataModel</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1a555e2f1be203a79d5dbcd3687447c9ef" kind="variable"><name>_userManager</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1a2405d4ef71ea05bf6964632eed0ba32b" kind="variable"><name>_logger</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1acb5fcd5dad4ada3532e039eece653b68" kind="function"><name>PersonalDataModel</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1abbfb593f579dc83b2999a204c03cd673" kind="function"><name>OnGet</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_program" kind="class"><name>Shul_Event_Planner_2::Program</name>
+    <member refid="class_shul___event___planner__2_1_1_program_1a4397affdb3d8da660642afc659afe926" kind="function"><name>Main</name></member>
+    <member refid="class_shul___event___planner__2_1_1_program_1aaf7e88d9824d693f1afa9a1da1ce6dfb" kind="function"><name>CreateWebHostBuilder</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model" kind="class"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</name>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1ab4268b2e55b5f683402257fd704a92be" kind="variable"><name>_signInManager</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1aedc2078f55884454e446f70b3f984242" kind="variable"><name>_userManager</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a6cdba50d83d242251d49e083faad92f0" kind="variable"><name>_logger</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1ae66e346f565e473fcadb44d504ef91a9" kind="variable"><name>_emailSender</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a841a1797b482fbf72264cdd100569188" kind="property"><name>Input</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a83da1dbc58bebec49f4f9237df488a3a" kind="property"><name>ReturnUrl</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1ac6d814a5e2439b02b1839c3c0c8c0e34" kind="function"><name>RegisterModel</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1adc434ed351f0aa6addcfd8133d4f31ae" kind="function"><name>OnGet</name></member>
+    <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a963adb78d9afd415581592881fdf6a7d" kind="function"><name>OnPostAsync</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_second_update" kind="class"><name>Shul_Event_Planner_2::Data::Migrations::SecondUpdate</name>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_second_update_1ae8936cdde7c6259ca40196c68037d869" kind="function"><name>Up</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_second_update_1aac8c2313473f7e0a4e22b3f855840f76" kind="function"><name>Down</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_second_update_1a090c07901aeb6b8b0bfb4e37b79ed8e8" kind="function"><name>BuildTargetModel</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_startup" kind="class"><name>Shul_Event_Planner_2::Startup</name>
+    <member refid="class_shul___event___planner__2_1_1_startup_1a33398b1990889c3312f760045d1217f9" kind="property"><name>Configuration</name></member>
+    <member refid="class_shul___event___planner__2_1_1_startup_1aa502bf68f86b8e150d31809e0f4ca424" kind="function"><name>Startup</name></member>
+    <member refid="class_shul___event___planner__2_1_1_startup_1aa013dffdc0151b84581e694e7cf6d584" kind="function"><name>ConfigureServices</name></member>
+    <member refid="class_shul___event___planner__2_1_1_startup_1a20b4b48a99b4213912a52a29691caf20" kind="function"><name>Configure</name></member>
+  </compound>
+  <compound refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update" kind="class"><name>Shul_Event_Planner_2::Data::Migrations::ThirdUpdate</name>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update_1a0a1006db1219fd1f2f8906db99d01e8e" kind="function"><name>Up</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update_1a2230789a95fbc8db2b7366d46cf27a9a" kind="function"><name>Down</name></member>
+    <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update_1a5207b18d4b849d3ab0eee4850db88508" kind="function"><name>BuildTargetModel</name></member>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core" kind="namespace"><name>Microsoft::AspNetCore</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_authentication" kind="namespace"><name>Microsoft::AspNetCore::Authentication</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_authorization" kind="namespace"><name>Microsoft::AspNetCore::Authorization</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_builder" kind="namespace"><name>Microsoft::AspNetCore::Builder</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_hosting" kind="namespace"><name>Microsoft::AspNetCore::Hosting</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_http" kind="namespace"><name>Microsoft::AspNetCore::Http</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_https_policy" kind="namespace"><name>Microsoft::AspNetCore::HttpsPolicy</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_identity" kind="namespace"><name>Microsoft::AspNetCore::Identity</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_identity_1_1_entity_framework_core" kind="namespace"><name>Microsoft::AspNetCore::Identity::EntityFrameworkCore</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_identity_1_1_u_i" kind="namespace"><name>Microsoft::AspNetCore::Identity::UI</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_identity_1_1_u_i_1_1_services" kind="namespace"><name>Microsoft::AspNetCore::Identity::UI::Services</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_mvc" kind="namespace"><name>Microsoft::AspNetCore::Mvc</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_mvc_1_1_razor_pages" kind="namespace"><name>Microsoft::AspNetCore::Mvc::RazorPages</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_asp_net_core_1_1_mvc_1_1_rendering" kind="namespace"><name>Microsoft::AspNetCore::Mvc::Rendering</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_entity_framework_core" kind="namespace"><name>Microsoft::EntityFrameworkCore</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_entity_framework_core_1_1_infrastructure" kind="namespace"><name>Microsoft::EntityFrameworkCore::Infrastructure</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_entity_framework_core_1_1_metadata" kind="namespace"><name>Microsoft::EntityFrameworkCore::Metadata</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_entity_framework_core_1_1_migrations" kind="namespace"><name>Microsoft::EntityFrameworkCore::Migrations</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_entity_framework_core_1_1_storage_1_1_value_conversion" kind="namespace"><name>Microsoft::EntityFrameworkCore::Storage::ValueConversion</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_extensions_1_1_configuration" kind="namespace"><name>Microsoft::Extensions::Configuration</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_extensions_1_1_dependency_injection" kind="namespace"><name>Microsoft::Extensions::DependencyInjection</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_extensions_1_1_logging" kind="namespace"><name>Microsoft::Extensions::Logging</name>
+  </compound>
+  <compound refid="namespace_newtonsoft_1_1_json" kind="namespace"><name>Newtonsoft::Json</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2" kind="namespace"><name>Shul_Event_Planner_2</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2_1_1_areas" kind="namespace"><name>Shul_Event_Planner_2::Areas</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2_1_1_areas_1_1_identity" kind="namespace"><name>Shul_Event_Planner_2::Areas::Identity</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages" kind="namespace"><name>Shul_Event_Planner_2::Areas::Identity::Pages</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account" kind="namespace"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage" kind="namespace"><name>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2_1_1_controllers" kind="namespace"><name>Shul_Event_Planner_2::Controllers</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2_1_1_data" kind="namespace"><name>Shul_Event_Planner_2::Data</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2_1_1_data_1_1_migrations" kind="namespace"><name>Shul_Event_Planner_2::Data::Migrations</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2_1_1_models" kind="namespace"><name>Shul_Event_Planner_2::Models</name>
+  </compound>
+  <compound refid="namespace_shul___event___planner__2_1_1_view_models" kind="namespace"><name>Shul_Event_Planner_2::ViewModels</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_component_model_1_1_data_annotations" kind="namespace"><name>System::ComponentModel::DataAnnotations</name>
+  </compound>
+  <compound refid="namespace_system_1_1_diagnostics" kind="namespace"><name>System::Diagnostics</name>
+  </compound>
+  <compound refid="namespace_system_1_1_i_o" kind="namespace"><name>System::IO</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_security_1_1_policy" kind="namespace"><name>System::Security::Policy</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text_1_1_encodings_1_1_web" kind="namespace"><name>System::Text::Encodings::Web</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="_identity_hosting_startup_8cs" kind="file"><name>IdentityHostingStartup.cs</name>
+  </compound>
+  <compound refid="_login_8cshtml_8cs" kind="file"><name>Login.cshtml.cs</name>
+  </compound>
+  <compound refid="_login_with2fa_8cshtml_8cs" kind="file"><name>LoginWith2fa.cshtml.cs</name>
+  </compound>
+  <compound refid="_index_8cshtml_8cs" kind="file"><name>Index.cshtml.cs</name>
+  </compound>
+  <compound refid="_manage_nav_pages_8cs" kind="file"><name>ManageNavPages.cs</name>
+  </compound>
+  <compound refid="_personal_data_8cshtml_8cs" kind="file"><name>PersonalData.cshtml.cs</name>
+  </compound>
+  <compound refid="_register_8cshtml_8cs" kind="file"><name>Register.cshtml.cs</name>
+  </compound>
+  <compound refid="_calendar_set_up_controller_8cs" kind="file"><name>CalendarSetUpController.cs</name>
+  </compound>
+  <compound refid="_home_controller_8cs" kind="file"><name>HomeController.cs</name>
+  </compound>
+  <compound refid="_application_db_context_8cs" kind="file"><name>ApplicationDbContext.cs</name>
+  </compound>
+  <compound refid="00000000000000___create_identity_schema_8cs" kind="file"><name>00000000000000_CreateIdentitySchema.cs</name>
+  </compound>
+  <compound refid="00000000000000___create_identity_schema_8_designer_8cs" kind="file"><name>00000000000000_CreateIdentitySchema.Designer.cs</name>
+  </compound>
+  <compound refid="20190207172303__[_first_update]_8cs" kind="file"><name>20190207172303_[FirstUpdate].cs</name>
+  </compound>
+  <compound refid="20190207172303__[_first_update]_8_designer_8cs" kind="file"><name>20190207172303_[FirstUpdate].Designer.cs</name>
+  </compound>
+  <compound refid="20190207201611__[_second_update]_8cs" kind="file"><name>20190207201611_[SecondUpdate].cs</name>
+  </compound>
+  <compound refid="20190207201611__[_second_update]_8_designer_8cs" kind="file"><name>20190207201611_[SecondUpdate].Designer.cs</name>
+  </compound>
+  <compound refid="20190207203130__[_third_update]_8cs" kind="file"><name>20190207203130_[ThirdUpdate].cs</name>
+  </compound>
+  <compound refid="20190207203130__[_third_update]_8_designer_8cs" kind="file"><name>20190207203130_[ThirdUpdate].Designer.cs</name>
+  </compound>
+  <compound refid="20190207210849___custom_data_user_8cs" kind="file"><name>20190207210849_CustomDataUser.cs</name>
+  </compound>
+  <compound refid="20190207210849___custom_data_user_8_designer_8cs" kind="file"><name>20190207210849_CustomDataUser.Designer.cs</name>
+  </compound>
+  <compound refid="20190212191724___migrate4_8cs" kind="file"><name>20190212191724_Migrate4.cs</name>
+  </compound>
+  <compound refid="20190212191724___migrate4_8_designer_8cs" kind="file"><name>20190212191724_Migrate4.Designer.cs</name>
+  </compound>
+  <compound refid="20190212195536___migrate5_8cs" kind="file"><name>20190212195536_Migrate5.cs</name>
+  </compound>
+  <compound refid="20190212195536___migrate5_8_designer_8cs" kind="file"><name>20190212195536_Migrate5.Designer.cs</name>
+  </compound>
+  <compound refid="_application_db_context_model_snapshot_8cs" kind="file"><name>ApplicationDbContextModelSnapshot.cs</name>
+  </compound>
+  <compound refid="_application_user_8cs" kind="file"><name>ApplicationUser.cs</name>
+  </compound>
+  <compound refid="_calendar_set_up_8cs" kind="file"><name>CalendarSetUp.cs</name>
+  </compound>
+  <compound refid="_error_view_model_8cs" kind="file"><name>ErrorViewModel.cs</name>
+  </compound>
+  <compound refid="_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_startup_8cs" kind="file"><name>Startup.cs</name>
+  </compound>
+  <compound refid="_calendar_set_up_view_model_8cs" kind="file"><name>CalendarSetUpViewModel.cs</name>
+  </compound>
+  <compound refid="_l_i_c_e_n_s_e_8md" kind="file"><name>LICENSE.md</name>
+  </compound>
+  <compound refid="md__c_1__users_dkami_source_repos__shul__event__planner_2__shul__event__planner_2_wwwroot_lib_jquery-validation__l_i_c_e_n_s_e" kind="page"><name>md_C:_Users_dkami_source_repos_Shul_Event_Planner_2_Shul_Event_Planner_2_wwwroot_lib_jquery-validation_LICENSE</name>
+  </compound>
+  <compound refid="dir_33d0aec3e925172a5c08a3facb1c4f65" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account</name>
+  </compound>
+  <compound refid="dir_8e3617a578a136515c2058932903a8b0" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas</name>
+  </compound>
+  <compound refid="dir_72d003ebd6d70be5b4dc792faca632c7" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers</name>
+  </compound>
+  <compound refid="dir_90a650f69b0eea39b703630cda1fb6a4" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data</name>
+  </compound>
+  <compound refid="dir_e370e36afba725a7513aa102ac9326d8" kind="dir"><name>C:/Users/dkami</name>
+  </compound>
+  <compound refid="dir_2b7b3f037a8071b49de7d8a4b749beb3" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity</name>
+  </compound>
+  <compound refid="dir_064181250823dbd58364a6b762e8625b" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage</name>
+  </compound>
+  <compound refid="dir_15d4749d52cea4c5fb0f42a724330ff7" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations</name>
+  </compound>
+  <compound refid="dir_bbb40d49ab31763277a0c60922aa4d91" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Models</name>
+  </compound>
+  <compound refid="dir_4cacbf7f423d1b159d7e881e1f9e8b55" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages</name>
+  </compound>
+  <compound refid="dir_d5e88a403ad57cae6604394d77c10d3f" kind="dir"><name>C:/Users/dkami/source/repos</name>
+  </compound>
+  <compound refid="dir_61ec6d638651f89f9bcce7c7294af35d" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2</name>
+  </compound>
+  <compound refid="dir_385b16a89e9eefb52468cb33564999a7" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2</name>
+  </compound>
+  <compound refid="dir_769e4ee360338ac7857f41c311b988e9" kind="dir"><name>C:/Users/dkami/source</name>
+  </compound>
+  <compound refid="dir_8ceffd4ee35c3518d4e8bdc7e638efe8" kind="dir"><name>C:/Users</name>
+  </compound>
+  <compound refid="dir_a787f9d36f0853e735af3cd4175a6f30" kind="dir"><name>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels</name>
+  </compound>
+</doxygenindex>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Data::Migrations::ThirdUpdate</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Migration</basecompoundref>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update_1a0a1006db1219fd1f2f8906db99d01e8e" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.ThirdUpdate.Up</definition>
+        <argsstring>(MigrationBuilder migrationBuilder)</argsstring>
+        <name>Up</name>
+        <param>
+          <type>MigrationBuilder</type>
+          <declname>migrationBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207203130_[ThirdUpdate].cs" line="7" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207203130_[ThirdUpdate].cs" bodystart="7" bodyend="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update_1a2230789a95fbc8db2b7366d46cf27a9a" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.ThirdUpdate.Down</definition>
+        <argsstring>(MigrationBuilder migrationBuilder)</argsstring>
+        <name>Down</name>
+        <param>
+          <type>MigrationBuilder</type>
+          <declname>migrationBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207203130_[ThirdUpdate].cs" line="12" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207203130_[ThirdUpdate].cs" bodystart="12" bodyend="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update_1a5207b18d4b849d3ab0eee4850db88508" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.ThirdUpdate.BuildTargetModel</definition>
+        <argsstring>(ModelBuilder modelBuilder)</argsstring>
+        <name>BuildTargetModel</name>
+        <param>
+          <type>ModelBuilder</type>
+          <declname>modelBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207203130_[ThirdUpdate].Designer.cs" line="16" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207203130_[ThirdUpdate].Designer.cs" bodystart="16" bodyend="260"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="90">
+        <label>Shul_Event_Planner_2.Data.Migrations.ThirdUpdate</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update"/>
+        <childnode refid="91" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="91">
+        <label>Migration</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="92">
+        <label>Shul_Event_Planner_2.Data.Migrations.ThirdUpdate</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update"/>
+        <childnode refid="93" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="93">
+        <label>Migration</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207203130_[ThirdUpdate].cs" line="6" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207203130_[ThirdUpdate].cs" bodystart="5" bodyend="16"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update_1a5207b18d4b849d3ab0eee4850db88508" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::ThirdUpdate</scope><name>BuildTargetModel</name></member>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update_1a2230789a95fbc8db2b7366d46cf27a9a" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::ThirdUpdate</scope><name>Down</name></member>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update_1a0a1006db1219fd1f2f8906db99d01e8e" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::ThirdUpdate</scope><name>Up</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

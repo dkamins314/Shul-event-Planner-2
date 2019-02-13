@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_program" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Program</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_program_1a4397affdb3d8da660642afc659afe926" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Shul_Event_Planner_2.Program.Main</definition>
+        <argsstring>(string[] args)</argsstring>
+        <name>Main</name>
+        <param>
+          <type>string[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Program.cs" line="15" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Program.cs" bodystart="15" bodyend="18"/>
+        <references refid="class_shul___event___planner__2_1_1_program_1aaf7e88d9824d693f1afa9a1da1ce6dfb">Shul_Event_Planner_2.Program.CreateWebHostBuilder</references>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_program_1aaf7e88d9824d693f1afa9a1da1ce6dfb" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>IWebHostBuilder</type>
+        <definition>static IWebHostBuilder Shul_Event_Planner_2.Program.CreateWebHostBuilder</definition>
+        <argsstring>(string[] args)</argsstring>
+        <name>CreateWebHostBuilder</name>
+        <param>
+          <type>string[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Program.cs" line="20" column="1"/>
+        <referencedby refid="class_shul___event___planner__2_1_1_program_1a4397affdb3d8da660642afc659afe926" compoundref="_program_8cs" startline="15" endline="18">Shul_Event_Planner_2.Program.Main</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Program.cs" line="14" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Program.cs" bodystart="13" bodyend="23"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_program_1aaf7e88d9824d693f1afa9a1da1ce6dfb" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Program</scope><name>CreateWebHostBuilder</name></member>
+      <member refid="class_shul___event___planner__2_1_1_program_1a4397affdb3d8da660642afc659afe926" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Program</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

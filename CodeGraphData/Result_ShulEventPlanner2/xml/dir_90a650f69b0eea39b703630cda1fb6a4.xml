@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_90a650f69b0eea39b703630cda1fb6a4" kind="dir">
+    <compoundname>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data</compoundname>
+    <innerdir refid="dir_15d4749d52cea4c5fb0f42a724330ff7">C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations</innerdir>
+    <innerfile refid="_application_db_context_8cs">ApplicationDbContext.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/"/>
+  </compounddef>
+</doxygen>

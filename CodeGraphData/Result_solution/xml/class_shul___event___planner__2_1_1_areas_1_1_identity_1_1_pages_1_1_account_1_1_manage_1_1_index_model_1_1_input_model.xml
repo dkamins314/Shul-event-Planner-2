@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1a03b8df7c00c32439387a39ff7f32b70a" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.Email</definition>
+        <argsstring></argsstring>
+        <name>Email</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="46" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ad6dc93a006adf8666182631396874cdc" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.ContactName</definition>
+        <argsstring></argsstring>
+        <name>ContactName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="50" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ade40d5ca8967f4771276f507b8ab480a" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.NameofOrganization</definition>
+        <argsstring></argsstring>
+        <name>NameofOrganization</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="54" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ae1d5a206019b28d4e924699b0a38d73a" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.StreetAddressOfOrganization</definition>
+        <argsstring></argsstring>
+        <name>StreetAddressOfOrganization</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="58" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1afac3202c9b8809c0acf2e579528e054d" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.ZipCode</definition>
+        <argsstring></argsstring>
+        <name>ZipCode</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="63" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1a7d8f681eee27507bb8a1aebb44e27721" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.City</definition>
+        <argsstring></argsstring>
+        <name>City</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="68" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="68" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1a1bd87ae4fcd914df14212e9eab625d3c" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.State</definition>
+        <argsstring></argsstring>
+        <name>State</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="72" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ac11dd3b6161cbfe28fd97f03537f87f4" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.Country</definition>
+        <argsstring></argsstring>
+        <name>Country</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="77" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ae244b8f7d92e327f4efeed45919738fe" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.InputModel.PhoneNumber</definition>
+        <argsstring></argsstring>
+        <name>PhoneNumber</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="81" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="43" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="42" bodyend="83"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1a7d8f681eee27507bb8a1aebb44e27721" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</scope><name>City</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ad6dc93a006adf8666182631396874cdc" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</scope><name>ContactName</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ac11dd3b6161cbfe28fd97f03537f87f4" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</scope><name>Country</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1a03b8df7c00c32439387a39ff7f32b70a" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</scope><name>Email</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ade40d5ca8967f4771276f507b8ab480a" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</scope><name>NameofOrganization</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ae244b8f7d92e327f4efeed45919738fe" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</scope><name>PhoneNumber</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1a1bd87ae4fcd914df14212e9eab625d3c" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</scope><name>State</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1ae1d5a206019b28d4e924699b0a38d73a" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</scope><name>StreetAddressOfOrganization</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model_1afac3202c9b8809c0acf2e579528e054d" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</scope><name>ZipCode</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

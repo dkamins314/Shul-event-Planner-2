@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::PersonalDataModel</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">PageModel</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1a555e2f1be203a79d5dbcd3687447c9ef" prot="private" static="no" mutable="no">
+        <type>readonly UserManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+        <definition>readonly UserManager&lt;ApplicationUser&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.PersonalDataModel._userManager</definition>
+        <argsstring></argsstring>
+        <name>_userManager</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" line="12" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1a2405d4ef71ea05bf6964632eed0ba32b" prot="private" static="no" mutable="no">
+        <type>readonly ILogger&lt; <ref refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model" kindref="compound">PersonalDataModel</ref> &gt;</type>
+        <definition>readonly ILogger&lt;PersonalDataModel&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.PersonalDataModel._logger</definition>
+        <argsstring></argsstring>
+        <name>_logger</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" line="13" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1acb5fcd5dad4ada3532e039eece653b68" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.PersonalDataModel.PersonalDataModel</definition>
+        <argsstring>(UserManager&lt; ApplicationUser &gt; userManager, ILogger&lt; PersonalDataModel &gt; logger)</argsstring>
+        <name>PersonalDataModel</name>
+        <param>
+          <type>UserManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+          <declname>userManager</declname>
+        </param>
+        <param>
+          <type>ILogger&lt; <ref refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model" kindref="compound">PersonalDataModel</ref> &gt;</type>
+          <declname>logger</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" line="15" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" bodystart="15" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1abbfb593f579dc83b2999a204c03cd673" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.PersonalDataModel.OnGet</definition>
+        <argsstring>()</argsstring>
+        <name>OnGet</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" line="23" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" bodystart="23" bodyend="32"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="74">
+        <label>Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.PersonalDataModel</label>
+        <link refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model"/>
+        <childnode refid="75" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="75">
+        <label>PageModel</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="76">
+        <label>Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.PersonalDataModel</label>
+        <link refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model"/>
+        <childnode refid="77" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="77">
+        <label>PageModel</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" line="11" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" bodystart="10" bodyend="33"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1a2405d4ef71ea05bf6964632eed0ba32b" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::PersonalDataModel</scope><name>_logger</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1a555e2f1be203a79d5dbcd3687447c9ef" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::PersonalDataModel</scope><name>_userManager</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1abbfb593f579dc83b2999a204c03cd673" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::PersonalDataModel</scope><name>OnGet</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_personal_data_model_1acb5fcd5dad4ada3532e039eece653b68" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::PersonalDataModel</scope><name>PersonalDataModel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

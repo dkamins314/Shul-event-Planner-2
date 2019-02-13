@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">PageModel</basecompoundref>
+    <innerclass refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model" prot="public">Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel::InputModel</innerclass>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1ab5fb264063338e80138d690e531ac826" prot="private" static="no" mutable="no">
+        <type>readonly UserManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+        <definition>readonly UserManager&lt;ApplicationUser&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel._userManager</definition>
+        <argsstring></argsstring>
+        <name>_userManager</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="18" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a2996edf0e0a0ff943825c9bc08a3d005" prot="private" static="no" mutable="no">
+        <type>readonly SignInManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+        <definition>readonly SignInManager&lt;ApplicationUser&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel._signInManager</definition>
+        <argsstring></argsstring>
+        <name>_signInManager</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="19" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1aaa226e38207cc574e8c8c071a8b887a9" prot="private" static="no" mutable="no">
+        <type>readonly IEmailSender</type>
+        <definition>readonly IEmailSender Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel._emailSender</definition>
+        <argsstring></argsstring>
+        <name>_emailSender</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="20" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a9fe6171c6be4fb98b051766105669e88" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.Username</definition>
+        <argsstring></argsstring>
+        <name>Username</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="32" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a68b389c34988a6a12056df7b39117470" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>bool</type>
+        <definition>bool Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.IsEmailConfirmed</definition>
+        <argsstring></argsstring>
+        <name>IsEmailConfirmed</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="34" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a9165696c7518c0859de2fc0452669e92" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.StatusMessage</definition>
+        <argsstring></argsstring>
+        <name>StatusMessage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="37" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1af21b2eb6e2fdb52167655515e0e92d93" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1_1_input_model" kindref="compound">InputModel</ref></type>
+        <definition>InputModel Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.Input</definition>
+        <argsstring></argsstring>
+        <name>Input</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="40" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a91f7cab66207f23bc5b68d8f95d081f5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.IndexModel</definition>
+        <argsstring>(UserManager&lt; ApplicationUser &gt; userManager, SignInManager&lt; ApplicationUser &gt; signInManager, IEmailSender emailSender)</argsstring>
+        <name>IndexModel</name>
+        <param>
+          <type>UserManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+          <declname>userManager</declname>
+        </param>
+        <param>
+          <type>SignInManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+          <declname>signInManager</declname>
+        </param>
+        <param>
+          <type>IEmailSender</type>
+          <declname>emailSender</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="22" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="22" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a8a0f5ffaf53ac1772e5f1ad46b22f987" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.OnGetAsync</definition>
+        <argsstring>()</argsstring>
+        <name>OnGetAsync</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="85" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="85" bodyend="115"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a6ef0e699532af4aa62a0bf7953938bec" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.OnPostAsync</definition>
+        <argsstring>()</argsstring>
+        <name>OnPostAsync</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="117" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="117" bodyend="178"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1ab8ed8509e6b8a4b9844c52ff22ff6b3b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel.OnPostSendVerificationEmailAsync</definition>
+        <argsstring>()</argsstring>
+        <name>OnPostSendVerificationEmailAsync</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="180" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="180" bodyend="209"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="44">
+        <label>Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel</label>
+        <link refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model"/>
+        <childnode refid="45" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="45">
+        <label>PageModel</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="46">
+        <label>Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.IndexModel</label>
+        <link refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model"/>
+        <childnode refid="47" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="47">
+        <label>PageModel</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" line="17" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" bodystart="16" bodyend="210"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1aaa226e38207cc574e8c8c071a8b887a9" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>_emailSender</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a2996edf0e0a0ff943825c9bc08a3d005" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>_signInManager</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1ab5fb264063338e80138d690e531ac826" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>_userManager</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a91f7cab66207f23bc5b68d8f95d081f5" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>IndexModel</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1af21b2eb6e2fdb52167655515e0e92d93" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>Input</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a68b389c34988a6a12056df7b39117470" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>IsEmailConfirmed</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a8a0f5ffaf53ac1772e5f1ad46b22f987" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>OnGetAsync</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a6ef0e699532af4aa62a0bf7953938bec" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>OnPostAsync</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1ab8ed8509e6b8a4b9844c52ff22ff6b3b" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>OnPostSendVerificationEmailAsync</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a9165696c7518c0859de2fc0452669e92" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>StatusMessage</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_index_model_1a9fe6171c6be4fb98b051766105669e88" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::IndexModel</scope><name>Username</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

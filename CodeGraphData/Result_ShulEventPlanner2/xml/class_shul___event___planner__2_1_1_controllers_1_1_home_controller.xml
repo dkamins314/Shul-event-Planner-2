@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_controllers_1_1_home_controller" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Controllers::HomeController</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Controller</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_home_controller_1aa5ed635ee231946b30d8633a20e2749a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>IActionResult</type>
+        <definition>IActionResult Shul_Event_Planner_2.Controllers.HomeController.Index</definition>
+        <argsstring>()</argsstring>
+        <name>Index</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/HomeController.cs" line="13" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/HomeController.cs" bodystart="13" bodyend="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_home_controller_1a06865392d42288ac31b59f1d24ccf510" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>IActionResult</type>
+        <definition>IActionResult Shul_Event_Planner_2.Controllers.HomeController.Privacy</definition>
+        <argsstring>()</argsstring>
+        <name>Privacy</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/HomeController.cs" line="18" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/HomeController.cs" bodystart="18" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_home_controller_1afa34b666526dc19e5496cdfdeefed0a8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>IActionResult</type>
+        <definition>IActionResult Shul_Event_Planner_2.Controllers.HomeController.Error</definition>
+        <argsstring>()</argsstring>
+        <name>Error</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/HomeController.cs" line="24" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/HomeController.cs" bodystart="24" bodyend="27"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="36">
+        <label>Shul_Event_Planner_2.Controllers.HomeController</label>
+        <link refid="class_shul___event___planner__2_1_1_controllers_1_1_home_controller"/>
+        <childnode refid="37" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="37">
+        <label>Controller</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="38">
+        <label>Shul_Event_Planner_2.Controllers.HomeController</label>
+        <link refid="class_shul___event___planner__2_1_1_controllers_1_1_home_controller"/>
+        <childnode refid="39" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="39">
+        <label>Controller</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/HomeController.cs" line="12" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/HomeController.cs" bodystart="11" bodyend="28"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_home_controller_1afa34b666526dc19e5496cdfdeefed0a8" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::HomeController</scope><name>Error</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_home_controller_1aa5ed635ee231946b30d8633a20e2749a" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::HomeController</scope><name>Index</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_home_controller_1a06865392d42288ac31b59f1d24ccf510" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::HomeController</scope><name>Privacy</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

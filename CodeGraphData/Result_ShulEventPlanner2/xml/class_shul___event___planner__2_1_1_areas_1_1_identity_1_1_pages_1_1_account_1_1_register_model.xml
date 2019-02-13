@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">PageModel</basecompoundref>
+    <innerclass refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model" prot="public">Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel::InputModel</innerclass>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1ab4268b2e55b5f683402257fd704a92be" prot="private" static="no" mutable="no">
+        <type>readonly SignInManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+        <definition>readonly SignInManager&lt;ApplicationUser&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel._signInManager</definition>
+        <argsstring></argsstring>
+        <name>_signInManager</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" line="21" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1aedc2078f55884454e446f70b3f984242" prot="private" static="no" mutable="no">
+        <type>readonly UserManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+        <definition>readonly UserManager&lt;ApplicationUser&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel._userManager</definition>
+        <argsstring></argsstring>
+        <name>_userManager</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" line="22" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a6cdba50d83d242251d49e083faad92f0" prot="private" static="no" mutable="no">
+        <type>readonly ILogger&lt; <ref refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model" kindref="compound">RegisterModel</ref> &gt;</type>
+        <definition>readonly ILogger&lt;RegisterModel&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel._logger</definition>
+        <argsstring></argsstring>
+        <name>_logger</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" line="23" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1ae66e346f565e473fcadb44d504ef91a9" prot="private" static="no" mutable="no">
+        <type>readonly IEmailSender</type>
+        <definition>readonly IEmailSender Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel._emailSender</definition>
+        <argsstring></argsstring>
+        <name>_emailSender</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" line="24" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a841a1797b482fbf72264cdd100569188" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1_1_input_model" kindref="compound">InputModel</ref></type>
+        <definition>InputModel Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel.Input</definition>
+        <argsstring></argsstring>
+        <name>Input</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" line="39" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a83da1dbc58bebec49f4f9237df488a3a" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel.ReturnUrl</definition>
+        <argsstring></argsstring>
+        <name>ReturnUrl</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" line="41" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1ac6d814a5e2439b02b1839c3c0c8c0e34" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel.RegisterModel</definition>
+        <argsstring>(UserManager&lt; ApplicationUser &gt; userManager, SignInManager&lt; ApplicationUser &gt; signInManager, ILogger&lt; RegisterModel &gt; logger, IEmailSender emailSender)</argsstring>
+        <name>RegisterModel</name>
+        <param>
+          <type>UserManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+          <declname>userManager</declname>
+        </param>
+        <param>
+          <type>SignInManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+          <declname>signInManager</declname>
+        </param>
+        <param>
+          <type>ILogger&lt; <ref refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model" kindref="compound">RegisterModel</ref> &gt;</type>
+          <declname>logger</declname>
+        </param>
+        <param>
+          <type>IEmailSender</type>
+          <declname>emailSender</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" line="26" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" bodystart="26" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1adc434ed351f0aa6addcfd8133d4f31ae" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel.OnGet</definition>
+        <argsstring>(string returnUrl=null)</argsstring>
+        <name>OnGet</name>
+        <param>
+          <type>string</type>
+          <declname>returnUrl</declname>
+          <defval>null</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" line="102" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" bodystart="102" bodyend="105"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a963adb78d9afd415581592881fdf6a7d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel.OnPostAsync</definition>
+        <argsstring>(string returnUrl=null)</argsstring>
+        <name>OnPostAsync</name>
+        <param>
+          <type>string</type>
+          <declname>returnUrl</declname>
+          <defval>null</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" line="107" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" bodystart="107" bodyend="152"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="81">
+        <label>PageModel</label>
+      </node>
+      <node id="80">
+        <label>Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel</label>
+        <link refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model"/>
+        <childnode refid="81" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="83">
+        <label>PageModel</label>
+      </node>
+      <node id="82">
+        <label>Shul_Event_Planner_2.Areas.Identity.Pages.Account.RegisterModel</label>
+        <link refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model"/>
+        <childnode refid="83" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" line="20" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Register.cshtml.cs" bodystart="19" bodyend="153"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1ae66e346f565e473fcadb44d504ef91a9" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</scope><name>_emailSender</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a6cdba50d83d242251d49e083faad92f0" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</scope><name>_logger</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1ab4268b2e55b5f683402257fd704a92be" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</scope><name>_signInManager</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1aedc2078f55884454e446f70b3f984242" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</scope><name>_userManager</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a841a1797b482fbf72264cdd100569188" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</scope><name>Input</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1adc434ed351f0aa6addcfd8133d4f31ae" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</scope><name>OnGet</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a963adb78d9afd415581592881fdf6a7d" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</scope><name>OnPostAsync</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1ac6d814a5e2439b02b1839c3c0c8c0e34" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</scope><name>RegisterModel</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model_1a83da1dbc58bebec49f4f9237df488a3a" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</scope><name>ReturnUrl</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

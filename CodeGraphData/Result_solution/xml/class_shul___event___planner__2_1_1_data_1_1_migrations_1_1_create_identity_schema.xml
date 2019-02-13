@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Data::Migrations::CreateIdentitySchema</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Migration</basecompoundref>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema_1ad832757718e6971c0f1e2f316caa2ea1" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.CreateIdentitySchema.Up</definition>
+        <argsstring>(MigrationBuilder migrationBuilder)</argsstring>
+        <name>Up</name>
+        <param>
+          <type>MigrationBuilder</type>
+          <declname>migrationBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/00000000000000_CreateIdentitySchema.cs" line="9" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/00000000000000_CreateIdentitySchema.cs" bodystart="9" bodyend="194"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema_1a355824a0696bcd493f292f6c48ffe1fd" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.CreateIdentitySchema.Down</definition>
+        <argsstring>(MigrationBuilder migrationBuilder)</argsstring>
+        <name>Down</name>
+        <param>
+          <type>MigrationBuilder</type>
+          <declname>migrationBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/00000000000000_CreateIdentitySchema.cs" line="196" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/00000000000000_CreateIdentitySchema.cs" bodystart="196" bodyend="218"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema_1ac3224fa533a9a5a6e8b3df5b31d4fc71" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.CreateIdentitySchema.BuildTargetModel</definition>
+        <argsstring>(ModelBuilder modelBuilder)</argsstring>
+        <name>BuildTargetModel</name>
+        <param>
+          <type>ModelBuilder</type>
+          <declname>modelBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs" line="16" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs" bodystart="16" bodyend="234"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="22">
+        <label>Shul_Event_Planner_2.Data.Migrations.CreateIdentitySchema</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema"/>
+        <childnode refid="23" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="23">
+        <label>Migration</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="24">
+        <label>Shul_Event_Planner_2.Data.Migrations.CreateIdentitySchema</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema"/>
+        <childnode refid="25" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="25">
+        <label>Migration</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/00000000000000_CreateIdentitySchema.cs" line="8" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/00000000000000_CreateIdentitySchema.cs" bodystart="7" bodyend="219"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema_1ac3224fa533a9a5a6e8b3df5b31d4fc71" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::CreateIdentitySchema</scope><name>BuildTargetModel</name></member>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema_1a355824a0696bcd493f292f6c48ffe1fd" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::CreateIdentitySchema</scope><name>Down</name></member>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema_1ad832757718e6971c0f1e2f316caa2ea1" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::CreateIdentitySchema</scope><name>Up</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

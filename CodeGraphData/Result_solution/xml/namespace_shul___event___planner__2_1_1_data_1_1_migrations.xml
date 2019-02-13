@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_shul___event___planner__2_1_1_data_1_1_migrations" kind="namespace">
+    <compoundname>Shul_Event_Planner_2::Data::Migrations</compoundname>
+    <innerclass refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_create_identity_schema" prot="public">Shul_Event_Planner_2::Data::Migrations::CreateIdentitySchema</innerclass>
+    <innerclass refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update" prot="public">Shul_Event_Planner_2::Data::Migrations::FirstUpdate</innerclass>
+    <innerclass refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_second_update" prot="public">Shul_Event_Planner_2::Data::Migrations::SecondUpdate</innerclass>
+    <innerclass refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_third_update" prot="public">Shul_Event_Planner_2::Data::Migrations::ThirdUpdate</innerclass>
+    <innerclass refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_custom_data_user" prot="public">Shul_Event_Planner_2::Data::Migrations::CustomDataUser</innerclass>
+    <innerclass refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4" prot="public">Shul_Event_Planner_2::Data::Migrations::Migrate4</innerclass>
+    <innerclass refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate5" prot="public">Shul_Event_Planner_2::Data::Migrations::Migrate5</innerclass>
+    <innerclass refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_application_db_context_model_snapshot" prot="public">Shul_Event_Planner_2::Data::Migrations::ApplicationDbContextModelSnapshot</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/00000000000000_CreateIdentitySchema.cs" line="6" column="1"/>
+  </compounddef>
+</doxygen>

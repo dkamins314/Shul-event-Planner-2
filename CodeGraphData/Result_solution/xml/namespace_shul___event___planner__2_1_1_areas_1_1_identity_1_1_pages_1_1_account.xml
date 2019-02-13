@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account" kind="namespace">
+    <compoundname>Shul_Event_Planner_2::Areas::Identity::Pages::Account</compoundname>
+    <innerclass refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_model" prot="public">Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginModel</innerclass>
+    <innerclass refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model" prot="public">Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</innerclass>
+    <innerclass refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_register_model" prot="public">Shul_Event_Planner_2::Areas::Identity::Pages::Account::RegisterModel</innerclass>
+    <innernamespace refid="namespace_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage">Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="[generated]" line="1" column="1"/>
+  </compounddef>
+</doxygen>

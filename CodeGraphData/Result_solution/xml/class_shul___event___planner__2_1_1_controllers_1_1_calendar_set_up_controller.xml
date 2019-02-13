@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Controllers::CalendarSetUpController</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Controller</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a946a201ca55cfc7058caa72229382c50" prot="private" static="no" mutable="no">
+        <type>readonly <ref refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context" kindref="compound">ApplicationDbContext</ref></type>
+        <definition>readonly ApplicationDbContext Shul_Event_Planner_2.Controllers.CalendarSetUpController._context</definition>
+        <argsstring></argsstring>
+        <name>_context</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="16" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a3f9571d90d1ba6c057590daa52e22a25" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Shul_Event_Planner_2.Controllers.CalendarSetUpController.CalendarSetUpController</definition>
+        <argsstring>(ApplicationDbContext context)</argsstring>
+        <name>CalendarSetUpController</name>
+        <param>
+          <type><ref refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context" kindref="compound">ApplicationDbContext</ref></type>
+          <declname>context</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="18" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="18" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a9a17aa212ff2ea290caba0955fd5e166" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Controllers.CalendarSetUpController.Index</definition>
+        <argsstring>()</argsstring>
+        <name>Index</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="24" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="24" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1aa5283ddd2498a5943199a43f9e6d1d4b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Controllers.CalendarSetUpController.Details</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Details</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="30" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="30" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a6a4d2b2b9bf823467745b032c95ac83f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>IActionResult</type>
+        <definition>IActionResult Shul_Event_Planner_2.Controllers.CalendarSetUpController.Create</definition>
+        <argsstring>()</argsstring>
+        <name>Create</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="48" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="48" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1aca1d87b5f3227fc20f98fa10a067918e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Controllers.CalendarSetUpController.Create</definition>
+        <argsstring>([Bind(&quot;Id,Address,City,ZipCode,Country,GeolocationCoordinates&quot;)] CalendarSetUp calendarSetUp)</argsstring>
+        <name>Create</name>
+        <param>
+          <attributes>[Bind(&quot;Id,Address,City,ZipCode,Country,GeolocationCoordinates&quot;)]</attributes>
+          <type><ref refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up" kindref="compound">CalendarSetUp</ref></type>
+          <declname>calendarSetUp</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="62" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="62" bodyend="71"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1aba7514f2340f2ac0461095b92ff4702a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Controllers.CalendarSetUpController.Edit</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Edit</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="74" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="74" bodyend="87"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a2e423f7479b02a3c9d9d615a11e6369c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Controllers.CalendarSetUpController.Edit</definition>
+        <argsstring>(int id, [Bind(&quot;Id,Address,City,ZipCode,Country,GeolocationCoordinates&quot;)] CalendarSetUp calendarSetUp)</argsstring>
+        <name>Edit</name>
+        <param>
+          <type>int</type>
+          <declname>id</declname>
+        </param>
+        <param>
+          <attributes>[Bind(&quot;Id,Address,City,ZipCode,Country,GeolocationCoordinates&quot;)]</attributes>
+          <type><ref refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up" kindref="compound">CalendarSetUp</ref></type>
+          <declname>calendarSetUp</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="94" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="94" bodyend="122"/>
+        <references refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up_1a34528d7e89f58d20cfa7d835de3a9934" compoundref="_calendar_set_up_8cs" startline="9">Shul_Event_Planner_2.Models.CalendarSetUp.Id</references>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a952b395d1fe274f907adfb40b73cf945" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Controllers.CalendarSetUpController.Delete</definition>
+        <argsstring>(int?id)</argsstring>
+        <name>Delete</name>
+        <param>
+          <type>int?</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="125" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="125" bodyend="140"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a44384ebb66aa8ed3b25c4e4d5a079041" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Controllers.CalendarSetUpController.DeleteConfirmed</definition>
+        <argsstring>(int id)</argsstring>
+        <name>DeleteConfirmed</name>
+        <param>
+          <type>int</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="145" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="145" bodyend="151"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1ac260ed288b526f192785c7ef745ff5c0" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Shul_Event_Planner_2.Controllers.CalendarSetUpController.CalendarSetUpExists</definition>
+        <argsstring>(int id)</argsstring>
+        <name>CalendarSetUpExists</name>
+        <param>
+          <type>int</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="153" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="153" bodyend="156"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="14">
+        <label>Shul_Event_Planner_2.Controllers.CalendarSetUpController</label>
+        <link refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller"/>
+        <childnode refid="15" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="15">
+        <label>Controller</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="18">
+        <label>Shul_Event_Planner_2.Data.ApplicationDbContext</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context"/>
+        <childnode refid="19" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="16">
+        <label>Shul_Event_Planner_2.Controllers.CalendarSetUpController</label>
+        <link refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller"/>
+        <childnode refid="17" relation="public-inheritance">
+        </childnode>
+        <childnode refid="18" relation="usage">
+          <edgelabel>_context</edgelabel>
+        </childnode>
+      </node>
+      <node id="19">
+        <label>IdentityDbContext</label>
+      </node>
+      <node id="17">
+        <label>Controller</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" line="15" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/CalendarSetUpController.cs" bodystart="14" bodyend="157"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a946a201ca55cfc7058caa72229382c50" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>_context</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a3f9571d90d1ba6c057590daa52e22a25" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>CalendarSetUpController</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1ac260ed288b526f192785c7ef745ff5c0" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>CalendarSetUpExists</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a6a4d2b2b9bf823467745b032c95ac83f" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>Create</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1aca1d87b5f3227fc20f98fa10a067918e" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>Create</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a952b395d1fe274f907adfb40b73cf945" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>Delete</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a44384ebb66aa8ed3b25c4e4d5a079041" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>DeleteConfirmed</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1aa5283ddd2498a5943199a43f9e6d1d4b" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>Details</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1aba7514f2340f2ac0461095b92ff4702a" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>Edit</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a2e423f7479b02a3c9d9d615a11e6369c" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>Edit</name></member>
+      <member refid="class_shul___event___planner__2_1_1_controllers_1_1_calendar_set_up_controller_1a9a17aa212ff2ea290caba0955fd5e166" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Controllers::CalendarSetUpController</scope><name>Index</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

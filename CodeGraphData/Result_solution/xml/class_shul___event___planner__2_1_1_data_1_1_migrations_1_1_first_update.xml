@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Data::Migrations::FirstUpdate</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Migration</basecompoundref>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update_1a89a24160d5bcd9b3ed063d71f293b09d" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.FirstUpdate.Up</definition>
+        <argsstring>(MigrationBuilder migrationBuilder)</argsstring>
+        <name>Up</name>
+        <param>
+          <type>MigrationBuilder</type>
+          <declname>migrationBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207172303_[FirstUpdate].cs" line="7" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207172303_[FirstUpdate].cs" bodystart="7" bodyend="54"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update_1a2e249db1bb3b1b4253bdbabbcc6bb779" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.FirstUpdate.Down</definition>
+        <argsstring>(MigrationBuilder migrationBuilder)</argsstring>
+        <name>Down</name>
+        <param>
+          <type>MigrationBuilder</type>
+          <declname>migrationBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207172303_[FirstUpdate].cs" line="56" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207172303_[FirstUpdate].cs" bodystart="56" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update_1a870980d9dda1ce710c85fd2ba10fdf6b" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.FirstUpdate.BuildTargetModel</definition>
+        <argsstring>(ModelBuilder modelBuilder)</argsstring>
+        <name>BuildTargetModel</name>
+        <param>
+          <type>ModelBuilder</type>
+          <declname>modelBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207172303_[FirstUpdate].Designer.cs" line="16" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207172303_[FirstUpdate].Designer.cs" bodystart="16" bodyend="262"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="33">
+        <label>Migration</label>
+      </node>
+      <node id="32">
+        <label>Shul_Event_Planner_2.Data.Migrations.FirstUpdate</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update"/>
+        <childnode refid="33" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="35">
+        <label>Migration</label>
+      </node>
+      <node id="34">
+        <label>Shul_Event_Planner_2.Data.Migrations.FirstUpdate</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update"/>
+        <childnode refid="35" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207172303_[FirstUpdate].cs" line="6" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190207172303_[FirstUpdate].cs" bodystart="5" bodyend="94"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update_1a870980d9dda1ce710c85fd2ba10fdf6b" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::FirstUpdate</scope><name>BuildTargetModel</name></member>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update_1a2e249db1bb3b1b4253bdbabbcc6bb779" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::FirstUpdate</scope><name>Down</name></member>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_first_update_1a89a24160d5bcd9b3ed063d71f293b09d" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::FirstUpdate</scope><name>Up</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

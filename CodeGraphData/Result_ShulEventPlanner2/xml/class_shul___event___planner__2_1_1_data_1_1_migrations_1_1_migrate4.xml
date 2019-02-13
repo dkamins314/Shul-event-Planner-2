@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Data::Migrations::Migrate4</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Migration</basecompoundref>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4_1a3051da2445713ecbabfc16771661cd9d" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.Migrate4.Up</definition>
+        <argsstring>(MigrationBuilder migrationBuilder)</argsstring>
+        <name>Up</name>
+        <param>
+          <type>MigrationBuilder</type>
+          <declname>migrationBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190212191724_Migrate4.cs" line="8" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190212191724_Migrate4.cs" bodystart="8" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4_1a9350168a350bf8b626cf81b0e1b874bd" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.Migrate4.Down</definition>
+        <argsstring>(MigrationBuilder migrationBuilder)</argsstring>
+        <name>Down</name>
+        <param>
+          <type>MigrationBuilder</type>
+          <declname>migrationBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190212191724_Migrate4.cs" line="29" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190212191724_Migrate4.cs" bodystart="29" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4_1a66be545ea41856d9c5511b8f50e5e2fc" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Shul_Event_Planner_2.Data.Migrations.Migrate4.BuildTargetModel</definition>
+        <argsstring>(ModelBuilder modelBuilder)</argsstring>
+        <name>BuildTargetModel</name>
+        <param>
+          <type>ModelBuilder</type>
+          <declname>modelBuilder</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190212191724_Migrate4.Designer.cs" line="16" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190212191724_Migrate4.Designer.cs" bodystart="16" bodyend="283"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="66">
+        <label>Shul_Event_Planner_2.Data.Migrations.Migrate4</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4"/>
+        <childnode refid="67" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="67">
+        <label>Migration</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="68">
+        <label>Shul_Event_Planner_2.Data.Migrations.Migrate4</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4"/>
+        <childnode refid="69" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="69">
+        <label>Migration</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190212191724_Migrate4.cs" line="7" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/Migrations/20190212191724_Migrate4.cs" bodystart="6" bodyend="34"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4_1a66be545ea41856d9c5511b8f50e5e2fc" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::Migrate4</scope><name>BuildTargetModel</name></member>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4_1a9350168a350bf8b626cf81b0e1b874bd" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::Migrate4</scope><name>Down</name></member>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_migrations_1_1_migrate4_1a3051da2445713ecbabfc16771661cd9d" prot="protected" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::Migrations::Migrate4</scope><name>Up</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</compoundname>
+      <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a06c54b2de684d35342d00ce009175f17" prot="public" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.Index</definition>
+        <argsstring></argsstring>
+        <name>Index</name>
+        <initializer>=&gt; &quot;Index&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="8" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1ae6744b7ac6263599402916dcc8ecbebd" prot="public" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.ChangePassword</definition>
+        <argsstring></argsstring>
+        <name>ChangePassword</name>
+        <initializer>=&gt; &quot;ChangePassword&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="10" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a1bf1d02d86bfc1bb74b57d89860e8b18" prot="public" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.ExternalLogins</definition>
+        <argsstring></argsstring>
+        <name>ExternalLogins</name>
+        <initializer>=&gt; &quot;ExternalLogins&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="12" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1af5aeb982ad72191d11986ab6397f3a87" prot="public" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.PersonalData</definition>
+        <argsstring></argsstring>
+        <name>PersonalData</name>
+        <initializer>=&gt; &quot;PersonalData&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="14" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1aec1891395b408b44757da2d4a75bc47e" prot="public" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.TwoFactorAuthentication</definition>
+        <argsstring></argsstring>
+        <name>TwoFactorAuthentication</name>
+        <initializer>=&gt; &quot;TwoFactorAuthentication&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="16" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a80d7df4e0c2e1d48e87f0f11d856e889" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>string</type>
+        <definition>static string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.IndexNavClass</definition>
+        <argsstring>(ViewContext viewContext)</argsstring>
+        <name>IndexNavClass</name>
+        <param>
+          <type>ViewContext</type>
+          <declname>viewContext</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="18" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a88177d34806ba80698ac4609f7a707f7" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>string</type>
+        <definition>static string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.ChangePasswordNavClass</definition>
+        <argsstring>(ViewContext viewContext)</argsstring>
+        <name>ChangePasswordNavClass</name>
+        <param>
+          <type>ViewContext</type>
+          <declname>viewContext</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="20" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a2899f76912a2d3ba9b259cfeb1641d96" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>string</type>
+        <definition>static string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.ExternalLoginsNavClass</definition>
+        <argsstring>(ViewContext viewContext)</argsstring>
+        <name>ExternalLoginsNavClass</name>
+        <param>
+          <type>ViewContext</type>
+          <declname>viewContext</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="22" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a15b8dccefc6444cf75e505d761d23649" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>string</type>
+        <definition>static string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.PersonalDataNavClass</definition>
+        <argsstring>(ViewContext viewContext)</argsstring>
+        <name>PersonalDataNavClass</name>
+        <param>
+          <type>ViewContext</type>
+          <declname>viewContext</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="24" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a3e4368e574d9286002171f8ccbbd27fe" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>string</type>
+        <definition>static string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.TwoFactorAuthenticationNavClass</definition>
+        <argsstring>(ViewContext viewContext)</argsstring>
+        <name>TwoFactorAuthenticationNavClass</name>
+        <param>
+          <type>ViewContext</type>
+          <declname>viewContext</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="26" column="1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a2373eecfaefccff9bea5ad4fdbfe224f" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>static string Shul_Event_Planner_2.Areas.Identity.Pages.Account.Manage.ManageNavPages.PageNavClass</definition>
+        <argsstring>(ViewContext viewContext, string page)</argsstring>
+        <name>PageNavClass</name>
+        <param>
+          <type>ViewContext</type>
+          <declname>viewContext</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>page</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="28" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" bodystart="28" bodyend="33"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" line="7" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage/ManageNavPages.cs" bodystart="6" bodyend="34"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1ae6744b7ac6263599402916dcc8ecbebd" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>ChangePassword</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a88177d34806ba80698ac4609f7a707f7" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>ChangePasswordNavClass</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a1bf1d02d86bfc1bb74b57d89860e8b18" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>ExternalLogins</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a2899f76912a2d3ba9b259cfeb1641d96" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>ExternalLoginsNavClass</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a06c54b2de684d35342d00ce009175f17" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>Index</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a80d7df4e0c2e1d48e87f0f11d856e889" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>IndexNavClass</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a2373eecfaefccff9bea5ad4fdbfe224f" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>PageNavClass</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1af5aeb982ad72191d11986ab6397f3a87" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>PersonalData</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a15b8dccefc6444cf75e505d761d23649" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>PersonalDataNavClass</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1aec1891395b408b44757da2d4a75bc47e" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>TwoFactorAuthentication</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_manage_nav_pages_1a3e4368e574d9286002171f8ccbbd27fe" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::Manage::ManageNavPages</scope><name>TwoFactorAuthenticationNavClass</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

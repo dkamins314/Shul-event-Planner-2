@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_72d003ebd6d70be5b4dc792faca632c7" kind="dir">
+    <compoundname>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers</compoundname>
+    <innerfile refid="_calendar_set_up_controller_8cs">CalendarSetUpController.cs</innerfile>
+    <innerfile refid="_home_controller_8cs">HomeController.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Controllers/"/>
+  </compounddef>
+</doxygen>

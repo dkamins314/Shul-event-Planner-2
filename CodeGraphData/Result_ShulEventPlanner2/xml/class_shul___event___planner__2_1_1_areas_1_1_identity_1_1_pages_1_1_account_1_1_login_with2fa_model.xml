@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">PageModel</basecompoundref>
+    <innerclass refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1_1_input_model" prot="public">Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel::InputModel</innerclass>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1af1045fcbe6fa79828d38d6dab7745c27" prot="private" static="no" mutable="no">
+        <type>readonly SignInManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+        <definition>readonly SignInManager&lt;ApplicationUser&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.LoginWith2faModel._signInManager</definition>
+        <argsstring></argsstring>
+        <name>_signInManager</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" line="18" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a1aaa97ee6bf408ee98aaaef4467b10b2" prot="private" static="no" mutable="no">
+        <type>readonly ILogger&lt; <ref refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model" kindref="compound">LoginWith2faModel</ref> &gt;</type>
+        <definition>readonly ILogger&lt;LoginWith2faModel&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.LoginWith2faModel._logger</definition>
+        <argsstring></argsstring>
+        <name>_logger</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" line="19" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a1b1cfdbf145db09da55c3aaddb9e2e9b" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1_1_input_model" kindref="compound">InputModel</ref></type>
+        <definition>InputModel Shul_Event_Planner_2.Areas.Identity.Pages.Account.LoginWith2faModel.Input</definition>
+        <argsstring></argsstring>
+        <name>Input</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" line="28" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a150fdda050b11b9b0b499733c642465e" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>bool</type>
+        <definition>bool Shul_Event_Planner_2.Areas.Identity.Pages.Account.LoginWith2faModel.RememberMe</definition>
+        <argsstring></argsstring>
+        <name>RememberMe</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" line="30" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a9958be674e323ffe5a06e8161c456ebb" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Areas.Identity.Pages.Account.LoginWith2faModel.ReturnUrl</definition>
+        <argsstring></argsstring>
+        <name>ReturnUrl</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" line="32" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1ab0f80958af6262e6cb83e53fe42dc7af" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Shul_Event_Planner_2.Areas.Identity.Pages.Account.LoginWith2faModel.LoginWith2faModel</definition>
+        <argsstring>(SignInManager&lt; ApplicationUser &gt; signInManager, ILogger&lt; LoginWith2faModel &gt; logger)</argsstring>
+        <name>LoginWith2faModel</name>
+        <param>
+          <type>SignInManager&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+          <declname>signInManager</declname>
+        </param>
+        <param>
+          <type>ILogger&lt; <ref refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model" kindref="compound">LoginWith2faModel</ref> &gt;</type>
+          <declname>logger</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" line="21" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" bodystart="21" bodyend="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a6397afdb4e40662e8a311f8b1aa01700" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.LoginWith2faModel.OnGetAsync</definition>
+        <argsstring>(bool rememberMe, string returnUrl=null)</argsstring>
+        <name>OnGetAsync</name>
+        <param>
+          <type>bool</type>
+          <declname>rememberMe</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>returnUrl</declname>
+          <defval>null</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" line="46" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" bodystart="46" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a1f2490f851af2a21727f321e85ccd0a0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>async Task&lt; IActionResult &gt;</type>
+        <definition>async Task&lt;IActionResult&gt; Shul_Event_Planner_2.Areas.Identity.Pages.Account.LoginWith2faModel.OnPostAsync</definition>
+        <argsstring>(bool rememberMe, string returnUrl=null)</argsstring>
+        <name>OnPostAsync</name>
+        <param>
+          <type>bool</type>
+          <declname>rememberMe</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>returnUrl</declname>
+          <defval>null</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" line="62" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" bodystart="62" bodyend="97"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="60">
+        <label>Shul_Event_Planner_2.Areas.Identity.Pages.Account.LoginWith2faModel</label>
+        <link refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model"/>
+        <childnode refid="61" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="61">
+        <label>PageModel</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="62">
+        <label>Shul_Event_Planner_2.Areas.Identity.Pages.Account.LoginWith2faModel</label>
+        <link refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model"/>
+        <childnode refid="63" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="63">
+        <label>PageModel</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" line="17" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" bodystart="16" bodyend="98"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a1aaa97ee6bf408ee98aaaef4467b10b2" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</scope><name>_logger</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1af1045fcbe6fa79828d38d6dab7745c27" prot="private" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</scope><name>_signInManager</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a1b1cfdbf145db09da55c3aaddb9e2e9b" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</scope><name>Input</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1ab0f80958af6262e6cb83e53fe42dc7af" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</scope><name>LoginWith2faModel</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a6397afdb4e40662e8a311f8b1aa01700" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</scope><name>OnGetAsync</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a1f2490f851af2a21727f321e85ccd0a0" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</scope><name>OnPostAsync</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a150fdda050b11b9b0b499733c642465e" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</scope><name>RememberMe</name></member>
+      <member refid="class_shul___event___planner__2_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_login_with2fa_model_1a9958be674e323ffe5a06e8161c456ebb" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Areas::Identity::Pages::Account::LoginWith2faModel</scope><name>ReturnUrl</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

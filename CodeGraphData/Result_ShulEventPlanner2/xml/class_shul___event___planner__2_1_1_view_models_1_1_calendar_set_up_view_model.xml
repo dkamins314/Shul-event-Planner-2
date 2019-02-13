@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::ViewModels::CalendarSetUpViewModel</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a6dff3a473475486a10eaabcf745d7055" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.ViewModels.CalendarSetUpViewModel.NameofSchedule</definition>
+        <argsstring></argsstring>
+        <name>NameofSchedule</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" line="15" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a074799320638564d971dfcc10599a47e" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.ViewModels.CalendarSetUpViewModel.Address</definition>
+        <argsstring></argsstring>
+        <name>Address</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" line="18" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a89960ace0b0d83484ded0ea557bf869d" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.ViewModels.CalendarSetUpViewModel.City</definition>
+        <argsstring></argsstring>
+        <name>City</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" line="21" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a8f1707fd46fbbbfe5e7e00a7738a52f3" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.ViewModels.CalendarSetUpViewModel.ZipCode</definition>
+        <argsstring></argsstring>
+        <name>ZipCode</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" line="24" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1aa981c19c17f3b27cf618cfe04ae7be4a" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.ViewModels.CalendarSetUpViewModel.Country</definition>
+        <argsstring></argsstring>
+        <name>Country</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" line="27" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1af9fc823d53fcc0ec8ebca2bd8530d605" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>double</type>
+        <definition>double Shul_Event_Planner_2.ViewModels.CalendarSetUpViewModel.GeolocationCoordinates</definition>
+        <argsstring></argsstring>
+        <name>GeolocationCoordinates</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" line="30" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" line="12" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/ViewModels/CalendarSetUpViewModel.cs" bodystart="11" bodyend="34"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a074799320638564d971dfcc10599a47e" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::ViewModels::CalendarSetUpViewModel</scope><name>Address</name></member>
+      <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a89960ace0b0d83484ded0ea557bf869d" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::ViewModels::CalendarSetUpViewModel</scope><name>City</name></member>
+      <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1aa981c19c17f3b27cf618cfe04ae7be4a" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::ViewModels::CalendarSetUpViewModel</scope><name>Country</name></member>
+      <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1af9fc823d53fcc0ec8ebca2bd8530d605" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::ViewModels::CalendarSetUpViewModel</scope><name>GeolocationCoordinates</name></member>
+      <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a6dff3a473475486a10eaabcf745d7055" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::ViewModels::CalendarSetUpViewModel</scope><name>NameofSchedule</name></member>
+      <member refid="class_shul___event___planner__2_1_1_view_models_1_1_calendar_set_up_view_model_1a8f1707fd46fbbbfe5e7e00a7738a52f3" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::ViewModels::CalendarSetUpViewModel</scope><name>ZipCode</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

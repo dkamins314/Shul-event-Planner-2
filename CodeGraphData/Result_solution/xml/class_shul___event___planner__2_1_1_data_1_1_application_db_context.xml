@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_data_1_1_application_db_context" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Data::ApplicationDbContext</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IdentityDbContext</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_data_1_1_application_db_context_1acf188241114777de340c37e0be6b08d4" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>DbSet&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_application_user" kindref="compound">ApplicationUser</ref> &gt;</type>
+        <definition>DbSet&lt;ApplicationUser&gt; Shul_Event_Planner_2.Data.ApplicationDbContext.AppUsers</definition>
+        <argsstring></argsstring>
+        <name>AppUsers</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/ApplicationDbContext.cs" line="16" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/ApplicationDbContext.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_data_1_1_application_db_context_1ad5f307fbe2541f6ed35c0a582831e4c8" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>DbSet&lt; <ref refid="class_shul___event___planner__2_1_1_models_1_1_calendar_set_up" kindref="compound">Shul_Event_Planner_2.Models.CalendarSetUp</ref> &gt;</type>
+        <definition>DbSet&lt;Shul_Event_Planner_2.Models.CalendarSetUp&gt; Shul_Event_Planner_2.Data.ApplicationDbContext.CalendarSetUp</definition>
+        <argsstring></argsstring>
+        <name>CalendarSetUp</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/ApplicationDbContext.cs" line="17" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/ApplicationDbContext.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_data_1_1_application_db_context_1a2eb356b63a32ea93b31e27361727d1af" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Shul_Event_Planner_2.Data.ApplicationDbContext.ApplicationDbContext</definition>
+        <argsstring>(DbContextOptions&lt; ApplicationDbContext &gt; options)</argsstring>
+        <name>ApplicationDbContext</name>
+        <param>
+          <type>DbContextOptions&lt; <ref refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context" kindref="compound">ApplicationDbContext</ref> &gt;</type>
+          <declname>options</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/ApplicationDbContext.cs" line="12" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/ApplicationDbContext.cs" bodystart="12" bodyend="15"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="0">
+        <label>Shul_Event_Planner_2.Data.ApplicationDbContext</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>IdentityDbContext</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Shul_Event_Planner_2.Data.ApplicationDbContext</label>
+        <link refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>IdentityDbContext</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/ApplicationDbContext.cs" line="11" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Data/ApplicationDbContext.cs" bodystart="10" bodyend="18"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context_1a2eb356b63a32ea93b31e27361727d1af" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::ApplicationDbContext</scope><name>ApplicationDbContext</name></member>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context_1acf188241114777de340c37e0be6b08d4" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::ApplicationDbContext</scope><name>AppUsers</name></member>
+      <member refid="class_shul___event___planner__2_1_1_data_1_1_application_db_context_1ad5f307fbe2541f6ed35c0a582831e4c8" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Data::ApplicationDbContext</scope><name>CalendarSetUp</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

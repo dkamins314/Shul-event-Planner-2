@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_models_1_1_error_view_model" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Models::ErrorViewModel</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_models_1_1_error_view_model_1a2cc7e1fa598791f193d72289726323e2" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Shul_Event_Planner_2.Models.ErrorViewModel.RequestId</definition>
+        <argsstring></argsstring>
+        <name>RequestId</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Models/ErrorViewModel.cs" line="7" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Models/ErrorViewModel.cs" bodystart="7" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_shul___event___planner__2_1_1_models_1_1_error_view_model_1a4350ed37f8b70b07b66357a7073806c6" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Shul_Event_Planner_2.Models.ErrorViewModel.ShowRequestId</definition>
+        <argsstring></argsstring>
+        <name>ShowRequestId</name>
+        <initializer>=&gt; !string.IsNullOrEmpty(<ref refid="class_shul___event___planner__2_1_1_models_1_1_error_view_model_1a2cc7e1fa598791f193d72289726323e2" kindref="member">RequestId</ref>)</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Models/ErrorViewModel.cs" line="9" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Models/ErrorViewModel.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Models/ErrorViewModel.cs" line="6" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Models/ErrorViewModel.cs" bodystart="5" bodyend="10"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_models_1_1_error_view_model_1a2cc7e1fa598791f193d72289726323e2" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Models::ErrorViewModel</scope><name>RequestId</name></member>
+      <member refid="class_shul___event___planner__2_1_1_models_1_1_error_view_model_1a4350ed37f8b70b07b66357a7073806c6" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Models::ErrorViewModel</scope><name>ShowRequestId</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

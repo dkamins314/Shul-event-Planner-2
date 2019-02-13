@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_shul___event___planner__2_1_1_startup" kind="class" prot="public">
+    <compoundname>Shul_Event_Planner_2::Startup</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_shul___event___planner__2_1_1_startup_1a33398b1990889c3312f760045d1217f9" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="no">
+        <type>IConfiguration</type>
+        <definition>IConfiguration Shul_Event_Planner_2.Startup.Configuration</definition>
+        <argsstring></argsstring>
+        <name>Configuration</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Startup.cs" line="27" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Startup.cs" bodystart="27" bodyend="-1"/>
+        <referencedby refid="class_shul___event___planner__2_1_1_startup_1aa502bf68f86b8e150d31809e0f4ca424" compoundref="_startup_8cs" startline="22" endline="25">Shul_Event_Planner_2.Startup.Startup</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_startup_1aa502bf68f86b8e150d31809e0f4ca424" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Shul_Event_Planner_2.Startup.Startup</definition>
+        <argsstring>(IConfiguration configuration)</argsstring>
+        <name>Startup</name>
+        <param>
+          <type>IConfiguration</type>
+          <declname>configuration</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Startup.cs" line="22" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Startup.cs" bodystart="22" bodyend="25"/>
+        <references refid="class_shul___event___planner__2_1_1_startup_1a33398b1990889c3312f760045d1217f9" compoundref="_startup_8cs" startline="27">Shul_Event_Planner_2.Startup.Configuration</references>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_startup_1aa013dffdc0151b84581e694e7cf6d584" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Shul_Event_Planner_2.Startup.ConfigureServices</definition>
+        <argsstring>(IServiceCollection services)</argsstring>
+        <name>ConfigureServices</name>
+        <param>
+          <type>IServiceCollection</type>
+          <declname>services</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Startup.cs" line="30" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Startup.cs" bodystart="30" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="class_shul___event___planner__2_1_1_startup_1a20b4b48a99b4213912a52a29691caf20" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Shul_Event_Planner_2.Startup.Configure</definition>
+        <argsstring>(IApplicationBuilder app, IHostingEnvironment env)</argsstring>
+        <name>Configure</name>
+        <param>
+          <type>IApplicationBuilder</type>
+          <declname>app</declname>
+        </param>
+        <param>
+          <type>IHostingEnvironment</type>
+          <declname>env</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Startup.cs" line="50" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Startup.cs" bodystart="50" bodyend="76"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Startup.cs" line="21" column="1" bodyfile="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Startup.cs" bodystart="20" bodyend="77"/>
+    <listofallmembers>
+      <member refid="class_shul___event___planner__2_1_1_startup_1a33398b1990889c3312f760045d1217f9" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Startup</scope><name>Configuration</name></member>
+      <member refid="class_shul___event___planner__2_1_1_startup_1a20b4b48a99b4213912a52a29691caf20" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Startup</scope><name>Configure</name></member>
+      <member refid="class_shul___event___planner__2_1_1_startup_1aa013dffdc0151b84581e694e7cf6d584" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Startup</scope><name>ConfigureServices</name></member>
+      <member refid="class_shul___event___planner__2_1_1_startup_1aa502bf68f86b8e150d31809e0f4ca424" prot="public" virt="non-virtual"><scope>Shul_Event_Planner_2::Startup</scope><name>Startup</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

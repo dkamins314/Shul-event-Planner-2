@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_33d0aec3e925172a5c08a3facb1c4f65" kind="dir">
+    <compoundname>C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account</compoundname>
+    <innerdir refid="dir_064181250823dbd58364a6b762e8625b">C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/Manage</innerdir>
+    <innerfile refid="_login_8cshtml_8cs">Login.cshtml.cs</innerfile>
+    <innerfile refid="_login_with2fa_8cshtml_8cs">LoginWith2fa.cshtml.cs</innerfile>
+    <innerfile refid="_register_8cshtml_8cs">Register.cshtml.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/dkami/source/repos/Shul Event Planner 2/Shul Event Planner 2/Areas/Identity/Pages/Account/"/>
+  </compounddef>
+</doxygen>
