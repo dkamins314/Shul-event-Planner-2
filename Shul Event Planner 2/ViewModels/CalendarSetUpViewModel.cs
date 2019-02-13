@@ -10,9 +10,9 @@ namespace Shul_Event_Planner_2.ViewModels
 {
     public class CalendarSetUpViewModel
     {
-        [Key]
-        [Required(ErrorMessage = "Name is required"), Display(Name = "Name of Schedule")]
-        public string NameofSchedule { get; set; }
+       
+        [Display(Name = "Title of Schedule"),Required(ErrorMessage = "Title is required")] 
+        public string TitleOfSchedule { get; set; }
 
         [Required(ErrorMessage = "Address is required")]
         public string Address { get; set; }
