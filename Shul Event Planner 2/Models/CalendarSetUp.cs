@@ -1,5 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Shul_Event_Planner_2.ViewModels;
+using Zmanim.TimeZone;
+using Zmanim.TzDatebase;
+using Zmanim.Utilities;
+
 
 namespace Shul_Event_Planner_2.Models
 {
